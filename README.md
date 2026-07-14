@@ -31,12 +31,12 @@
 ```text
 ├── data/
 │   └── split_info.csv          # Сплит датасета CelebA (train/test, ID, labels)
-├── Dataset_creation.ipynb      # Создание датасета и статистика
-├── Stage_1.ipynb               # Поиск ключевых точек и выравнивание
-├── Stage_2.ipynb               # Обучение моделей (CE loss и ArcFace)
-├── Stage_3.ipynb               # Сборка и тестирование полного пайплайна
-├── Dop_ques_1.ipynb            # Расчет метрики Identification Rate
-├── Dop_ques_4.ipynb            # Отчет по open-source решениям
+├── notebooks/
+│   ├── Stage_1.ipynb               # Создание датасета и статистика, а так же поиск ключевых точек и выравнивание
+│   ├── Stage_2.ipynb               # Обучение моделей (CE loss и ArcFace)
+│   ├── Stage_3.ipynb               # Сборка и тестирование полного пайплайна
+│   ├── Dop_ques_1.ipynb            # Расчет метрики Identification Rate
+│   └── Dop_ques_4.ipynb            # Отчет по open-source решениям
 └── README.md                   # Данный файл
 ```
 
