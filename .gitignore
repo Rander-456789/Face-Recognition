@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & Weights (на всякий случай, чтобы не залить гигабайты весов)
+*.pth
+*.pt
+*.onnx
+data/CelebA/
