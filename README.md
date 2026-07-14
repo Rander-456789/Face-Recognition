@@ -22,8 +22,10 @@
 
 ## Стек технологий и библиотеки
 
-*(Раздел будет заполнен позже)*
-
+* **Глубокое обучение**: `PyTorch`, `InsightFace`, `ONNX Runtime`, `DeepFace`, `CompreFace`
+* **Компьютерное зрение**: `OpenCV (cv2)`, `Pillow (PIL)`
+* **Анализ данных и метрики**: `NumPy`, `scikit-learn`, `SciPy`
+* **Среда и визуализация**: `Jupyter Notebook` / `Google Colab`, `Matplotlib`
 ---
 
 ## Архитектура репозитория
