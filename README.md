@@ -38,6 +38,7 @@
 ├── Dop_ques_1.ipynb            # Расчет метрики Identification Rate
 ├── Dop_ques_4.ipynb            # Отчет по open-source решениям
 └── README.md                   # Данный файл
+```
 
 ---
 
